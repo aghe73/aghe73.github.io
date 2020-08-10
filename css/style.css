@@ -62,3 +62,7 @@ img {
         position: static;
         top: 10px;
     }
+
+    .container {
+        margin-top: 20px;
+    }

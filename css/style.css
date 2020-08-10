@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "daughter";
+    src: url(fonts/ArchitectsDaughter-Regular.ttf);
+    font-weight: 500;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1 {
+    color: red;
+    font-family: "daughter";
+    text-align: center;
+
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#bio-header {
+    color: brown;
+}
+
+#skills-header {
+    color: chartreuse
+}
+
+.content {
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: normal;
+    font font-weight: lighter;
+    margin: 10px 20px 0;
+    padding: 10px 0 0 0;
+    border-top: solid 3px blue;
+
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: lightblue;
+}
+
+.light{
+background-color: lightseagreen;
+}
+
+img {
+    width: 14.4%;
+    box-shadow: 3px 3px 5px red;
+    margin: 1%
+    }
+
+    #img-1 {
+        display: inline;
+        position: static;
+        top: 10px;
+    }
